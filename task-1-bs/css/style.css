@@ -1,0 +1,72 @@
+
+/* Layout 1 */
+/* 
+.skills {
+    height: 800px;
+    max-width: 200px;
+   
+}
+
+.rounded-circle {
+    background-color: rgba(0, 0, 0, 0.032);
+    height: 75px;
+    width: 75px;
+    font-size: 3em;
+    
+}
+
+.line-break {
+    width: 25%;
+    border-top: 1px solid #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+} */
+
+
+
+/* Layout 2 */
+/* .container {
+    color: #ccc;
+    height: 500px;
+    
+
+}
+
+.line-break {
+    width: 20%;
+    border-top: 1px solid #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.rounded-circle {
+    background-color: rgba(0, 0, 0, 0.032);
+    height: 80px;
+    width: 80px;
+    font-size: 3em;
+    
+} */
+
+/* layout 3 */
+
+.container {
+    color: #ccc;
+    height: 500px;
+    
+
+}
+
+.line-break {
+    width: 20%;
+    border-top: 1px solid #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.rounded-circle {
+    background-color: rgba(0, 0, 0, 0.032);
+    height: 80px;
+    width: 80px;
+    font-size: 3em;
+    
+}
