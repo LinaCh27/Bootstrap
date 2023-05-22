@@ -1,0 +1,45 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.faq {
+    color: orange;
+
+    
+}
+.faq:hover {
+    color: gray;
+}
+
+.line-break {
+    width: 25%;
+    border-top: 1px solid #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+} 
+
+.faq-header {
+    color: gray;
+
+    
+}
+
+  
+.btn-link {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  .btn-link:hover {
+    color: gray;
+    text-decoration: underline;
+  }
+  
+  .btn-link:focus,
+  .btn-link:active {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  
